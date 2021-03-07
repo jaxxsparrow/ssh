@@ -1,1 +1,1 @@
-# ssh
+#  clonuig via ssh
